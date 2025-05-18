@@ -1,0 +1,71 @@
+.menu{
+    width: 80%;
+    margin: 0 auto;
+    background-color: burlywood;
+    padding: 20px;
+    max-width: 500px;
+    
+}
+body{
+    background-image: url(assets/coffee.webp);
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 40px;
+    
+}
+
+#est{
+    text-align: center;
+    font-style: italic;
+}
+
+h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    
+}
+
+footer{
+    text-align: center;
+}
+hr{
+    height: 3px;
+    background-color: rgb(144, 9, 9);
+    border: none;
+    margin: 10px;
+}
+
+.item p{
+    display: inline-block;
+    margin: 5px 0;
+    font-size: 18px;
+    
+}
+.flavour{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+.bottom{
+    margin-top: 25px;
+}
+a{
+    color: black;
+}
+a:hover{
+    color:red;
+}
